@@ -1,0 +1,14 @@
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.exe
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.deps.json
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.runtimeconfig.json
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.dll
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.pdb
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.AssemblyInfo.cs
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.dll
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\refint\ProjetoAulas.dll
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.pdb
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.genruntimeconfig.cache
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ref\ProjetoAulas.dll
