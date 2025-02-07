@@ -12,3 +12,4 @@ C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_i
 C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.pdb
 C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.genruntimeconfig.cache
 C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ref\ProjetoAulas.dll
+C:\Users\dnknd\OneDrive\Área de Trabalho\Projetos\C#\Desenvolvedor.io\projeto_introducao\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.sourcelink.json
